@@ -1,0 +1,11 @@
+
+{
+  "file": "https://www.jianguoyun.com/p/DbgwdNkQnJH-CBjj2pMFIAA",
+  "name": "YJ lakes-13 samples",
+  "meta": [
+    { "type": "id", "index": 0, "name": "X.OTU.ID" }
+  ],
+  "sets": [
+    { "format": "binary", "start": 1, "end": 13 }
+  ]
+}
