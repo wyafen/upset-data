@@ -1,8 +1,10 @@
-
 {
   "file": "https://github.com/wyafen/upset-data/blob/main/my_matrix.csv",
   "name": "YJ lakes-13 samples",
-  "meta": [
+   "header": 0,
+   "separator": ";",
+   "skip": 0,
+   "meta": [
     { "type": "id", "index": 0, "name": "X.OTU.ID" }
   ],
   "sets": [
