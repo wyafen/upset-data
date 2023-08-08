@@ -1,5 +1,5 @@
 {
-  "file": "https://github.com/wyafen/upset-data/blob/main/my_matrix.csv",
+  "file": "https://raw.githubusercontent.com/wyafen/upset-data/main/my_matrix.csv",
   "name": "YJ lakes-13 samples",
    "header": 0,
    "separator": ";",
